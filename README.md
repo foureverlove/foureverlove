@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tianxiao Qian 👋
 
-<!--
-**foureverlove/foureverlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dual-degree student in **Economics & Mathematics** at **Shanghai Jiao Tong University**, passionate about **quantitative finance, algorithmic trading, and AI/Blockchain applications**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Programming:** Python, Rust, SQL, R, Matlab  
+- **Tools & Frameworks:** PyTorch, LangChain / LangGraph, Mosek optimization, Time-series Deep Learning  
+- **Research Interests:** Quantitative Trading, FinTech, Blockchain development
+
+---
+
+## 🔬 Research & Projects
+- **High-Frequency Quantitative Strategies**  
+  Designed 30+ alpha factors using minute-level and tick-level data; integrated LLMs to automate factor analysis and proposal of new factors.  
+
+- **Temporal & Graph-Based AI Models**  
+  Applied Graph Neural Networks and time-series deep learning for stock prediction and portfolio optimization.  
+
+- **AI-Driven Financial Text Factors**  
+  Leveraged LLM embeddings and sentiment analysis to generate predictive text-based alpha signals.  
+
+- **Blockchain & Smart Contracts**  
+  Developed Rust-based smart contracts for decentralized government procurement platforms; awarded Best Project at University of Zurich Blockchain Summer Program.  
+
+- **Live Trading Strategies (In Progress)**  
+  Building automated multi-strategy trading systems combining cross-sectional selection, time-series signals, and macro insights.
+
+---
+
+## 📫 Contact
+- Email: [qtx2711135576@gmail.com](mailto:qtx2711135576@gmail.com)  
+- Location: Shanghai, China
