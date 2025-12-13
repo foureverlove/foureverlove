@@ -1,6 +1,6 @@
 # Hi, I'm Tianxiao Qian 👋
 
-I'm a dual-degree student in **Economics & Mathematics** at **Shanghai Jiao Tong University**, passionate about **quantitative finance, algorithmic trading, and AI/Blockchain applications**.
+I'm a dual-degree student in **Economics & Mathematics** at **Shanghai Jiao Tong University**, passionate about **algorithmic trading, tech application in Finance and AI/Blockchain applications**.
 
 ---
 
