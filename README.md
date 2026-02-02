@@ -23,9 +23,9 @@ Upcoming intern at Moonshot AI (the company behind Kimi), focusing on LLM applic
 - **Blockchain & Smart Contracts**  
   Developed Rust-based smart contracts for decentralized government procurement platforms; awarded Best Project at University of Zurich Blockchain Summer Program.  
 
-- **Live Trading Strategies (In Progress)**  
-  Building automated multi-strategy trading systems combining cross-sectional selection, time-series signals, and macro insights.
-
+- **Live Trading Strategies**  
+  have built my own trading systems, including multi-factor strategies, trend following strategies and asset allocation strategies, combined with Large Language Models.
+  Code cannot be posted publicly for confidentiality, but feel free to discuss with me if interested.
 ---
 
 ## 📫 Contact
