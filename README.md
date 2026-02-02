@@ -1,13 +1,12 @@
 # Hi, I'm Tianxiao Qian 👋
 
 I'm a dual-degree student in **Economics & Mathematics** at **Shanghai Jiao Tong University**, passionate about **algorithmic trading, tech application in Finance and AI/Blockchain applications**.
-
+Upcoming intern at Moonshot AI (the company behind Kimi), focusing on LLM applications.
 ---
 
 ## 💻 Technical Skills
 - **Programming:** Python, Rust, SQL, R, Matlab  
 - **Tools & Frameworks:** PyTorch, LangChain / LangGraph, Mosek optimization, Time-series Deep Learning  
-- **Research Interests:** Quantitative Trading, FinTech, Blockchain development
 
 ---
 
