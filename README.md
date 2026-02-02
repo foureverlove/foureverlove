@@ -1,4 +1,4 @@
-# Hi, I'm Tianxiao Qian 👋
+## Hi, I'm Tianxiao Qian 👋
 
 I'm a dual-degree student in **Economics & Mathematics** at **Shanghai Jiao Tong University**, passionate about **algorithmic trading, tech application in Finance and AI/Blockchain applications**.
 Upcoming intern at Moonshot AI (the company behind Kimi), focusing on LLM applications.
