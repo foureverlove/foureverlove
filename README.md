@@ -4,6 +4,13 @@ I'm a dual-degree student in **Economics & Mathematics** at **Shanghai Jiao Tong
 
 Now I am focusing on LLM applications in quantitative finance. I will share my insights regularly here!
 
+## 🚀 Featured Projects
+- [LLM-based-Fundamental-and-Price-Volume-Factor-Mining](https://github.com/foureverlove/LLM-based-Fundamental-and-Price-Volume-Factor-Mining)): LLM application in factor mining.
+- [supply-chain-Simulation-based-on-LLMs](https://github.com/foureverlove/supply-chain-Simulation-based-on-LLMs): Exploring the limits of LLM in simulation.
+- [Live_trading_system](https://github.com/foureverlove/Live_trading_system): Ongoing personal Quantitative Trading Project! Using multi-factor model.
+- [quantamental-causal-skill-for-ai-agent](https://github.com/foureverlove/quantamental-causal-skill-for-ai-agent): Enabling AI Agents to Learn Causal Inference in Investment Decision-Making.
+
+
 ## 💻 Technical Skills
 - **Programming:** Python, Rust, SQL, R, Matlab  
 - **Tools & Frameworks:** PyTorch, LangChain / LangGraph, Mosek optimization, Time-series Deep Learning  
