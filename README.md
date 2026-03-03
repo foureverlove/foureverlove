@@ -13,7 +13,7 @@ Now I am focusing on LLM applications in quantitative finance. I will share my i
 
 ## 💻 Technical Skills
 - **Programming:** Python, Rust, SQL, R, Matlab  
-- **Tools & Frameworks:** PyTorch, LangChain / LangGraph, Mosek optimization, Time-series Deep Learning  
+- **Tools & Frameworks:** PyTorch, LangChain / LangGraph, Mosek optimization, Cursor, Agent Skills
 
 ---
 
