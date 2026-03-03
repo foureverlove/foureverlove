@@ -2,7 +2,7 @@
 
 I'm a dual-degree student in **Economics & Mathematics** at **Shanghai Jiao Tong University**, passionate about **algorithmic trading, tech applications in Finance and AI/Blockchain applications**.
 
-Now I am focusing on LLM applications in quantitative finance. I will share my insights regularly here!
+Now I am focusing on LLM applications in quantitative finance. I will share my insights here regularly!
 
 ## 🚀 Featured Projects
 - [LLM-based-Fundamental-and-Price-Volume-Factor-Mining](https://github.com/foureverlove/LLM-based-Fundamental-and-Price-Volume-Factor-Mining)): LLM application in factor mining.
